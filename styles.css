@@ -1,3 +1,31 @@
+/* Global Styles */
+body{
+    font-family: 'Lato' sans-serif;
+    background-color: rgb(247, 237, 226);
+    text-align: center;
+}
+h1,h2,h3 {
+    font-family: 'Times New Roman', Times, serif;
+}
+h1 {
+    font-size: 48px;
+}
+h2 {
+    font-size: 36px;
+}
+h3 {
+    font-size: 24px;
+}
+
+header{
+    background-color: rgb(139, 117, 91);
+    padding: 20px;
+    text-align: center;
+}
+header.logo {
+    font-size: 48px;
+    font-weight: bold;
+}
 p{
     font-size: 20px;
 }
